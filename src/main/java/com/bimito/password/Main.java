@@ -10,7 +10,7 @@ public class Main {
         int[] circle3 = {9, 5, 6, 8, 7, 4, 2, 3, 1};
 
         int answer = new Main().findAnswer(k, password, circle1, circle2, circle3);
-        System.out.println("This is answer: " + answer);
+        System.out.println("Answer is: " + answer);
     }
 
 
